@@ -1,7 +1,7 @@
 {
   "name": "wondermove-web-component",
-  "version": "0.0.23",
-  "main": "./src/index.js",
+  "version": "0.0.24",
+  "main": "./src/index.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lokiwonder/wondermove-web-component.git"
